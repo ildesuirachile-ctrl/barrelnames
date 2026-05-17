@@ -834,4 +834,172 @@ Più di un Caffè
 Tutto Quello che Puoi Unire
 Club Milionario delle Fusioni
 Bevi per Spaventarti
+Il mais più dolce
+Strati d’acqua
+Miscuglio di San Valentino
+Campagna
+Tutte le curve
+Chiavi inglesi fritte
+Sovraccarico di caffeina
+Pietra miliare otto
+Risolvilo o mangialo
+Chiamami in Yen!
+Scaglie da misurare
+Clessidra della saggezza
+Soluzioni moderne
+L’espressione definitiva
+99942
+Dammi i tuoi giochi!
+La torre della regina malvagia
+Frappè
+Scrivendo in Ruby
+Di nuovo in pista
+Riflessioni celesti
+Parità!
+La mia prigione personale
+Guardiano del fuoco
+La maestosa cascata
+Regali per te!
+Potrebbe sembrare folle
+Carbone per te!
+Un credito e una traccia
+Per sempre congelato
+Comprato con amore
+Errore: Tentacoli
+Trapano a Barile
+24K-arati
+Energia del Rubino Runico
+Torre del Software
+Reale X
+Ramepunk
+Sogno della Ninfa
+Prestazioni Nobili
+Strega Cremisi
+Artefatto da Impatto
+Ne vogliamo ancora
+Campione del mondo
+Compagni pedoni
+Sono stato in Giappone
+Errante del Ghiaccio
+Natura Lunga
+Quattro Patatine
+Compassione dell’Anima
+Per favore non imbrattarmi
+Maggiore capacità
+La sua bevanda preferita
+LIBERTÀ!!!
+San Valentino Dorato
+Deserto del Passato
+Equilibrio Vita-Lavoro
+Tempio degli Artigli
+Spruzzo di Rottami
+Pressione Fattoriale
+TRX
+Il... nucleo della Terra?
+Che tempo fa?
+Dieta Bilanciata
+Dov'è il Dottore?
+Ahi, Pungente
+Cibo da Minion
+Una moda vocale
+Agro e Dolce 
+Non l'Uccello!
+Dov'è il Drago?
+Meccanismo ad Orologeria
+Codardo!
+Fetta di Felicità
+Denti Blu
+Sono appassionato
+Chi vive in un...
+Noccocò
+Prova ogni gusto!
+Ghiacciato!
+Accumulatore di tesori
+BOOM! BUCO!
+Mondo 1 - Foresta dormiente
+20 mirtilli blu
+X principianti
+Bevanda del Pacifico
+L’intero aggiornamento
+Cioccolato scadente
+BOMBA DI FIORI
+Da bobina a bobina
+Mondo 2 - Deserto collassato
+Bagliore splendente
+Cibo in ciotola
+Guarda in entrambe le direzioni
+Solo il più frizzante
+Magmatico
+Correggi i tuoi rottami
+Torre che cade
+Ho, ho, ho!
+Crepuscolo caleidoscopico
+Mondo 3 - Tempio radicale
+Nuovo anno, nuovo me
+Esca per squali
+Un gioco metallico
+Napoli alla Bavarese
+Creatività senza limiti
+Jackpot gigante
+Cristallo cubico
+Come ci siamo arrivati?
+Mondo 4 - Castello Attract
+Sollevando oro
+Il momento è arrivato...
+Fopsy
+Esposizione militare
+Energia portatile
+A tutto gas
+Ciao.
+Commestibile?
+Arresto cardiaco
+Barile incatenato
+Ciao!
+Tieni il volume alto!
+Mondo 5 - Campo di neve
+Le mie orecchie!
+Che succedeee?
+Bomba nutriente
+Hai ricevuto una mail!
+Reliquia del passato
+Dottore delle auto
+Unico nel suo genere
+Mondo 6 - Sogno tangibile
+Tanto tempo fa...
+Dove sono le bacchette?
+Dai un’occhiata a questo
+Una scintilla di vita
+Delizia a strati
+Equilibrio naturale
+Città al neon
+Figo per l’estate
+Equilibrio
+Il bar dello scoiattolo
+Nuova energia
+La persistenza della vita
+Alchimia arcana artica
+Artemis II
+Sorprendente
+Mondo 7 - Lamento dell’oscurità
+Il fango di Steve
+Caverne sulfuree
+Qualcuno riceverà un aumento
+L’invasione dell’eternità
+Bassa, alta tecnologia
+In memoria di
+Era ora
+Equinozio
+Fuoco degli anni ’80
+Spremi!
+Chi l’ha scosso?
+Fonte di energia alternativa
+Potio Amoris
+Sgabello organico
+Guida dell’idromante
+Oltre la nube di Oort
+Mi fai morire dal ridere
+Se non posso averti...
+Arte moderna
+Il frutto degli incubi
+Mondo 8 - Antica città dorata
 `

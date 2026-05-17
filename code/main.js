@@ -2,31 +2,21 @@
 // This work is copyrighted. Copying, cloning or stealing is prohibited.
 //
 
-const gameVersion = "2.0";
-const updateDate = "2025-05-29";
+const gameVersion = "2.0.1";
+const updateDate = "2026-05-17";
 const notes = "New in Update " + gameVersion + ":<br />" + 
     `
--> Barrel Book:
-- New feature, suggested by snekrot
-- Unlocked by default and found below favorites
-- Has a list of all barrels, 25/page, with filter to hide locked barrels, page buttons and search button
-- Barrels you have seen are unlocked and can be selected, and then you see what mixes you have found
-- Select a second barrel (it doesn't have to be unlocked) and you can see how often you had this exact mix, and directly mix the two
-- Selected barrels can be easily unselected or swapped
+-> Barrels:
+- Added barrels 793 - 822 (11.8, 2025)
+- Added barrels 823 - 870 (11.9, 2025)
+- Added barrels 871 - 900 (11.10, 2026)
+- Added barrels 901 - 960 (12.0, 2026)
+- Added their English and Italian Names. They are not fully translated to Russian and Ukrainian in SC2
 
--> Custom Mix:
-- The most requested feature is finally here: choosing what you want to mix!
-- In the Barrel Book, you can put a Barrel on the left or right side
-- Or you select two barrels and press "Mix these!" (second barrel does not need to be unlocked)
-- This way you can choose what barrels to mix, even if you never had the mix before
-- Custom mixes are marked with a * and don't contribute to the Book, but can be added as favorites and shared as usual!
-
--> Other:
-- New Mix Type: Super Fusion
-- New Mix Type: Multi Merge
-- Favorites and Book now stay hidden after reloading
-- Added auto save every 5 seconds
-- Smaller improvements
+-> Info area:
+- Updated design (Settings too)
+- Text is on the left now
+- Added Balnoom name, updated year from 2025 to 2026
 `.replaceAll("\n", "<br />");
 
 var canvas = document.getElementById("canvie");
@@ -35,7 +25,7 @@ var ctx = canvas.getContext("2d");
 const SX = 256;
 const SY = 256;
 
-const BARRELS = 792; // Amount of barrels
+const BARRELS = 960; // Amount of barrels
 
 var Names;
 
@@ -346,8 +336,8 @@ function updateSettingsDisplay() {
     ui.autogenspeed.innerHTML = "Speed: " + settings.autogenspeed;
 
     ui.creditsText1.innerHTML = "<a href='https://schrottii.github.io/'>"
-        + tt("madeby")
-        + "</a> ©️2022-2025 <br /> "
+        + tt("madeby") + " / Balnoom"
+        + "</a> ©️2022-2026 <br /> "
         + tt("based")
         + " ©️2017 <br /> "
         + tt("idea");

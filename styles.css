@@ -6,6 +6,8 @@
     #ADA493 - Khaki - black text
 */
 
+
+
 /* THE COMMON STUFF */
 body {
     background-color: #F4A460;
@@ -25,6 +27,12 @@ h3 {
     margin-top: 8px;
     margin-bottom: 0px;
 }
+
+hr {
+    max-width: 80%;
+}
+
+
 
 /* BUTTONS */
 .buttonStyle {
@@ -79,22 +87,32 @@ h3 {
     border: none;
 }
 
+
+
 /* BOXES / CONTAINERS */
 .creditsBox {
     background-color: #ADA493;
     position: absolute;
     width: 50%;
-    right: 12px;
+    right: 2%;
     font-family: 'DejaVu Sans Mono';
     outline-color: orangered;
-    text-align: right;
+    text-align: left;
 }
 
+    .creditsBox h2 {
+        padding-left: 15%;
+    }
+
+    .creditsBox h3 {
+        text-align: center;
+        text-emphasis: circle;
+    }
+
 .settingsBox {
-    background-color: #ADA493;
-    position: absolute;
     width: 40%;
     text-align: center;
+    left: 2%;
 }
 
 .favoritesBox {
@@ -115,6 +133,8 @@ h3 {
     color: white;
     font-size: 36px;
 }
+
+
 
 /* CONTENTS */
 .flag {

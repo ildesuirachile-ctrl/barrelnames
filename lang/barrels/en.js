@@ -791,4 +791,172 @@ More than Coffee
 All You Can Merge
 Million Merge Club
 Drink to be spooked
+The Sweetest Corn
+Layers of Water
+Valentine Concoction
+Countryside
+All the Curves
+Wrench Wries
+Caffeine Overload
+Octo-Milestone
+Solve It or Eat It
+Call Me in Yen!
+Scales to Scale
+Wisdom Hourglass
+Modern Solutions
+The Ultimate Expression
+99942
+Give me your Games!
+Tower of the Evil Queen
+Milkshake
+Writing In Ruby
+Back on Track
+Celestial Reflections
+Deuce!
+My Own Prison
+Guardian of Fire
+The Majestic Waterfall
+Gifts for You!
+It Might Seem Crazy
+Coal for You!
+One Credit & One Track
+Forever Frozen
+Bought With Love
+Error: Tentacles
+Drill Barrel Drill
+24K-arat
+Runic Ruby Energy
+Software Tower
+Royal X
+Copperpunk
+Nymph's Dream
+Noble Performance
+Crimson Witch
+Artifact to Impact
+We Want More of the Same
+Champion of the World
+Fellow Pedestrians
+I've Been to Japan
+Blizzard Strayer
+Long Nature
+Quattro Patatine
+Soul Compassion
+Please Don't Graffiti Me
+Bigger Storage
+Her favorite drink
+FREEDOM!!!
+Golden Valentine
+Desert of the Past
+Work-Life Balance
+Temple of Claws
+Scrap Spray
+Factorial Pressure
+TRX 
+The Earth's... Core?
+How's the Weather?
+Balanced Diet
+Where's the Doctor?
+Ow, spikey
+Minion Food
+A vocal trend
+Sour'n Sweet 
+Not the bird!
+Where's the Dragon?
+Clockwork
+Coward!
+Slice of Happiness
+Blue Teeth
+I am passionate
+Who lives in a...
+Cocnutnut
+Try Every Flavor!
+Icy!
+Treasure Hoarder
+BOOM! HOLE!
+World 1 - Sleeping Forest
+20 Blue Berries
+4 Beginners
+Pacific Punch
+The Whole Update
+Inferior Chocolate
+FLOWERBOMB
+Reel-to-reel
+World 2 - Collapsed Desert
+Resplendent Gleam
+Bowled Nutrition
+Look both Ways
+Only the Fizziest
+Magmatic
+Debug your Scrap
+Falling Tower
+Ho, ho, ho!
+Kaleidoscopic Eventide
+World 3 - Radical Temple
+New year, new Me
+Shark Bait
+A metal game
+Naples with Bavaria
+Limitless Creativity
+Jumbo Jackpot
+Cuboid Crystal
+How did we get here?
+World 4 - Attract Castle
+Lifting Gold
+Time has come...
+Fopsy
+Military exhibition
+Portable Power
+Revvin up
+Hello.
+Edible?
+Cardiac arrest
+Barrel in Chains
+Hello!
+Keep it Loud!
+World 5 - Pale Snowfield
+My ears!
+What'sss up?
+Nutricious Bomb
+You've got a mail!
+Relict from the past
+Car doctor
+One in a kind
+World 6 - Tangible Dream
+Long time ago...
+Where are the chopsticks?
+Check This Out
+A Spark of Life
+Layered Delight
+Natural Balance
+Neo Cities
+Cool for the Summer
+Equilibrium
+Squirrel's Diner
+Nu NRG
+The Persistence of Life
+Arctic Arcane Alchemy
+Artemis II
+A-maize-ing
+World 7 - Wail of Darkness
+Steve's Mud
+Sulfuric Caverns
+Someone's getting a raise!
+The Invasion of Eternity
+Lo Tech Hi Tech
+In Memory Of
+About Bloody Time
+Equinox
+Fire of the 80's
+Squeeze!
+Who Shook It?
+Alternative Power Source
+Potio Amoris
+Organic Stool
+Hydromancer's Guide
+Beyond the Oort Cloud
+You Crack Me Up
+If I Can't Have You...
+Modern Art
+The Fruit of Nightmares
+World 8 - Old Golden City
 `
